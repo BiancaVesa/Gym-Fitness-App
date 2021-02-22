@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ff19d64-025d-440c-bd2a-590663c4c9b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kS7g5h7jN1WtNybcf9JV1WtdgT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="sd" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="validator" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="start.ApplicationStart" />
+      <module name="FitnessApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ff19d64-025d-440c-bd2a-590663c4c9b3" name="Default Changelist" comment="" />
+      <created>1605682246783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605682246783</updated>
+      <workItem from="1605682251421" duration="1472000" />
+      <workItem from="1605690777332" duration="72000" />
+      <workItem from="1605690930166" duration="159000" />
+      <workItem from="1605702179440" duration="10295000" />
+      <workItem from="1606038747782" duration="5959000" />
+      <workItem from="1606045210033" duration="1497000" />
+      <workItem from="1606115931989" duration="1441000" />
+      <workItem from="1606287001179" duration="280000" />
+      <workItem from="1606326973830" duration="8151000" />
+      <workItem from="1606465513624" duration="3572000" />
+      <workItem from="1606510730736" duration="1526000" />
+      <workItem from="1606512351493" duration="1224000" />
+      <workItem from="1606640125482" duration="5113000" />
+      <workItem from="1606754200626" duration="3462000" />
+      <workItem from="1606838742736" duration="516000" />
+      <workItem from="1606839294959" duration="1430000" />
+      <workItem from="1607371823837" duration="7282000" />
+      <workItem from="1607623240631" duration="359000" />
+      <workItem from="1607674906521" duration="4951000" />
+      <workItem from="1607883829998" duration="3238000" />
+      <workItem from="1607887442224" duration="471000" />
+      <workItem from="1607932864980" duration="1514000" />
+      <workItem from="1607934695462" duration="35000" />
+      <workItem from="1607941344213" duration="3894000" />
+      <workItem from="1607960538446" duration="283000" />
+      <workItem from="1607981576815" duration="5107000" />
+      <workItem from="1608043625263" duration="4891000" />
+      <workItem from="1608465176892" duration="3038000" />
+      <workItem from="1608468676960" duration="186000" />
+      <workItem from="1608468890154" duration="367000" />
+      <workItem from="1608469291862" duration="6066000" />
+      <workItem from="1608555890676" duration="7054000" />
+      <workItem from="1608563195344" duration="242000" />
+      <workItem from="1608631775433" duration="8434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
